@@ -16,3 +16,9 @@ Java 9 Features::
 14.Reactive Streams API --> to support reactive programming in java 9.
 15.Lightweight JSON --->A lightweight API introduced to consume and generating documents and data streams via json in java 9.
 
+#Java 11 Features::
+========================
+1.New String Methods(isBlank, lines, strip, stripLeading, stripTrailing, and repeat)
+2.Local-Variable Syntax for Lambda Parameters
+
+

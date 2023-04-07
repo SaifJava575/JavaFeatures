@@ -1,0 +1,18 @@
+Java 9 Features::
+====================
+1.Module System
+2.REPL(Read-Eval-Print-Loop)(J shell)
+3.Improvement JavaDocApi
+4.MultiRealease Jar
+5.Collection Factory Methods
+6.private Interface methods
+7.Process API Improvements
+8.Stream API Improvements
+9.Try with Resource improvements
+10.Enhanced@Deprecated Annotation
+11.Inner class Diamond Operator(<>)
+12.Optional Class Improvements
+13.Multiresolution Image API
+14.Reactive Streams API --> to support reactive programming in java 9.
+15.Lightweight JSON --->A lightweight API introduced to consume and generating documents and data streams via json in java 9.
+

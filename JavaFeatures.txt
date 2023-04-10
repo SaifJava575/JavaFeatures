@@ -20,5 +20,17 @@ Java 9 Features::
 ========================
 1.New String Methods(isBlank, lines, strip, stripLeading, stripTrailing, and repeat)
 2.Local-Variable Syntax for Lambda Parameters
+3.Predicate not() add
+4.New HttpClientmodule 
+5.Single Source File launcher
+6.java.nio.file.Files add static methods of read() and write()
+
+
+#Java 14 features::
+=================================
+1.Record Types
+2.SwitchExpression Improvements
+3.Text Block
+4.
 
 

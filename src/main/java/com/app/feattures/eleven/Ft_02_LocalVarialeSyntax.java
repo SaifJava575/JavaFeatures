@@ -12,8 +12,15 @@ public class Ft_02_LocalVarialeSyntax {
 		System.out.println(result);
 	}
 
+	public static void local() {
+		List<String> sample = Arrays.asList("tech", "is", "beautiful");
+		String output = sample.stream().map((var x) -> x.toUpperCase()).collect(Collectors.joining(", "));
+		System.out.println(output);
+	}
+
 	public static void main(String[] args) {
-		localVariable();
+		//localVariable();
+		local();
 	}
 
 }

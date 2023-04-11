@@ -33,4 +33,9 @@ Java 9 Features::
 3.Text Block
 4.
 
+#Java15 Features::
+=========================
+1.Records Seconds Preview
+2.
+
 

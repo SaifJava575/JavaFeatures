@@ -1,3 +1,13 @@
+Java 7 features::
+====================
+1. Strings in switch's Selector
+2. Binary Integer Literals with Prefix "0b" and Underscore in Numeric Literals
+3. Catching Multiple Exception Types and Rethrowing Exceptions with Improved Type Checking
+	===>In JDK 7, you could use one single catch block, with exception types separated by a vertical bar (|).
+4.Automatic Resource Management in try-with-resources Statement
+5.Improved Type Inference for Generic Instance Creation with the Diamond Operator <>
+
+
 Java 9 Features::
 ====================
 1.Module System

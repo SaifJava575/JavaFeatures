@@ -8,6 +8,17 @@ Java 7 features::
 5.Improved Type Inference for Generic Instance Creation with the Diamond Operator <>
 
 
+Java 8 features::
+===========================
+1.forEach() method in Iterable interface
+2. default and static methods in Interfaces
+3.Functional Interfaces and Lambda Expressions
+4. Java Stream API for Bulk Data Operations on Collections
+5.Java Time API
+6.Lambda Expression
+
+
+
 Java 9 Features::
 ====================
 1.Module System

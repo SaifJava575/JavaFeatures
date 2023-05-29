@@ -11,9 +11,9 @@ Java 7 features::
 Java 8 features::
 ===========================
 1.forEach() method in Iterable interface
-2.default and static methods in Interfaces
+2. default and static methods in Interfaces
 3.Functional Interfaces and Lambda Expressions
-4.Java Stream API for Bulk Data Operations on Collections
+4. Java Stream API for Bulk Data Operations on Collections
 5.Java Time API
 6.Lambda Expression
 
